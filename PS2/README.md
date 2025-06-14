@@ -4,4 +4,6 @@ That version (same as previous version) save the iun file as TAP as original "sp
 
 I ordered the PCB using info from https://www.pcbway.com/project/shareproject/ZX_Spectrum_clone_based_at_STM32F401_with_VGA_output_and_PS_2_keyboard_input_ab6bfdd9.html
 
-My article: https://nicuflorica.blogspot.com/2025/06/alt-emulator-calculator-zx-spectrum-48k.html
+My article in romaina language: https://nicuflorica.blogspot.com/2025/06/alt-emulator-calculator-zx-spectrum-48k.html
+
+![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtl-7IKNqRi-niGQvPW7F9oy8roxWeunAwZ-bvEt9lcNIBh918VDJHSdoKMgaiuo3AfeL6nHX7WWYc6ksTiRf7pnu0i7xz4dEVkJVHKBB-xFVazwNNr-q9uJF-GeZCuq8eps94GVf86ByS9xKMQjdZ72S7UFFHUQYTYfKhdGe1FU2WaIcwC9deGJP1yWzN/w200-h150/ZxAP_.PS2_01.jpg)
